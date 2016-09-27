@@ -1,0 +1,5 @@
+﻿・プロセッサ　Intel Core i7
+・CPU　2.30GHz
+・RAM　8.0GB
+・OS　64bit
+・エディション　Windows　8.1　Pro
