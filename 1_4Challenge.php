@@ -4,9 +4,9 @@
 
   $num=2;
 
-  A+$num;
-  A-$num;
-  A*$num;
-  A/$num;
-  
+  A + $num;
+  A - $num;
+  A * $num;
+  A % $num;
+
   ?>
