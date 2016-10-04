@@ -1,15 +1,12 @@
 <?php
 
-  $imput = "1" or "2" or "a"."<br>";
+  $a=2;
 
-  echo "1文字入力してください"."<br>";
-  
-
-  if ($imput = "1") {
+  if ($a == 1) {
     echo "1です！"."<br>";
-  } else if ($imput = "2") {
+  } else if ($a == 2) {
     echo "プログラミングキャンプ！"."<br>";
-  } else if ($imput = "a") {
+  } else if ($a == a) {
     echo "文字です！"."<br>";
   } else {
     echo "その他です！"."<br>";
